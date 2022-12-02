@@ -5,7 +5,7 @@ A calculator that not only adds, subtracts, and multiplies, but is also smart en
 This program requires Java to compile and run.
 
 ## Credits
-**Author:** Mo Balić - [mobalic](https://github.com/mobalic)
+**Author:** Mo Balti - [mobalti](https://github.com/mobalti)
 
 This program is based on Smart Calculator on JetBrains Academy.
 
